@@ -13,8 +13,8 @@
         },
         "categories": {
             "auth": {
-                "amplifyfacebook3f95ad88": {
-                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"959850817396986\",\"client_secret\":\"953a071121d811c668d9d1ee006f5bed\"}]"
+                "amplifyfacebook56d65bfd": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"959850817396986\",\"client_secret\":\"22edc6dfb2c94c962c4b7abdbc60cfae\"}]"
                 }
             }
         }
